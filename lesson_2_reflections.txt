@@ -1,0 +1,8 @@
+
+u initiliase a repository by going to your home directory 
+and typing in the command git init.
+within your directory there is a .git extension which is created.
+This .git extension actually turns your directory to a repository.
+than when you get into your repository you have a tranck of all the file you hav
+e created
+

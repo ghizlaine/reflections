@@ -1,0 +1,18 @@
+1.hello, my name is Ghizlaine
+The diff commande is very interesting
+as it doesn't let u spend a lot of time
+reading your code line by line
+
+2.It is very efficient as you always have efficient versions 
+of your file saved properly
+
+3. the pros of commiting manually is that you judge effectively 
+when it is a good time to do it. 
+This way you make sure that you're commit has one clear
+logical purpose in order to not clutter your history
+
+4. git log opens the repositroy in order to check all the commmits
+and the changes that were made into it
+git diff compares a file between 2 commits showing which line have been modified
+and which one has not
+
