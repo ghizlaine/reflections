@@ -1,4 +1,4 @@
-
+ 
 u initiliase a repository by going to your home directory 
 and typing in the command git init.
 within your directory there is a .git extension which is created.
@@ -6,3 +6,5 @@ This .git extension actually turns your directory to a repository.
 than when you get into your repository you have a tranck of all the file you hav
 e created
 
+the Staging area put is an area where we add a certain number of file so that  are ready to get commited. The working directory contains all your file and the repository contains the files that will be commiting once you hit the command( the one that were on the staging area before) and it also contains the file that will not be commited 
+ 
