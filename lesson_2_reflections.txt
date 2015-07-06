@@ -7,4 +7,9 @@ than when you get into your repository you have a tranck of all the file you hav
 e created
 
 the Staging area put is an area where we add a certain number of file so that  are ready to get commited. The working directory contains all your file and the repository contains the files that will be commiting once you hit the command( the one that were on the staging area before) and it also contains the file that will not be commited 
- 
+
+The satging area should have the files where we want to make one commit per logical change so tht when we commit it will commit both files at the same time  
+
+It is interesting to use branches when the same code is having the same purpose but doing something differently. It is a good way to keep your code organized
+
+
